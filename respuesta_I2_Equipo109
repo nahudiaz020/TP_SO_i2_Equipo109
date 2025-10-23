@@ -1,9 +1,12 @@
-Nombres: Diaz Nahuel
-Candela Villamil 
-Santiago Di Viesti
+=======
+Integrantes:
+ALFA: Candela Villamil
+BETA: Diaz Nahuel
+GAMMA: Santiago Di Viesti
 
 ______________________________________________________________________________________
 
 1- El repositorio se puede actualizar desde GitBash con el comando: git pull.
 
 2- No, cuando ALFA abre su fork, aparece solo lo modificado por el mismo y GAMMA no puede ver lo que hizo ALFA.
+
