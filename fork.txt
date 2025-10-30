@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Nombre: Santiago Di Viesti
 IP: 192.168.0.15
 Hora de Push: 12:10
+=======
+Nombre y Apellido: Candela Villamil
+IP: 192.168.1.143
+Hora: 12:07
+>>>>>>> c809b0de762b1ee7b691a3eb6bcc57bc9bb49906
