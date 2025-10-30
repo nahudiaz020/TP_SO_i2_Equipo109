@@ -1,7 +1,15 @@
 Integrantes:
 ALFA: Candela Villamil
 BETA: Diaz Nahuel
-GAMMMA: Santiago Di Viesti
+GAMMA: Santiago Di Viesti
+
+______________________________________________________________________________________
+
+1- El repositorio se puede actualizar desde GitBash con el comando: git pull.
+
+2- No, cuando ALFA abre su fork, aparece solo lo modificado por el mismo y GAMMA no puede ver lo que hizo ALFA.
+
+=======
 
 5) 
 Comandos
@@ -30,3 +38,4 @@ git push
 Respuestas:
 c- Sí, puede. Tiene que agregar el repositorio de ALFA como “remote”, traer los cambios y mezclarlos con su fork
 d- No, no se pierden si ya los guardé con commit. Solo puede haber conflictos que hay que resolver
+
