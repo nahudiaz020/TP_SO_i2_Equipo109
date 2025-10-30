@@ -3,3 +3,30 @@ ALFA: Candela Villamil
 BETA: Diaz Nahuel
 GAMMMA: Santiago Di Viesti
 
+5) 
+Comandos
+git clone https://github.com/cande-00/TP_SO_i2_Equipo109.git
+cd "TP_SO_i2_Equipo”
+ls -la
+notepad "TP_SO_i2_Equipo” 
+git add fork.txt
+git commit -m "for.txt modificado"
+git push origin main
+touch NuevoDato.txt
+git add NuevoDato.txt
+git commmit -m "Archivo creado"
+git push
+touch respuestas_I2_Equipo109.txt
+git add NuevoDato.txt
+git commmit -m "Archivo creado"
+git push
+git pull
+cd respuestas_I2_Equipo109.txt
+notepad respuestas_I2_Equipo109.txt
+git add respuestas_I2_Equipo109.txt
+git commit -m "respuestas"
+git push
+
+Respuestas:
+c-
+d- 
